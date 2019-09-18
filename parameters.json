@@ -71,7 +71,7 @@
             "value": "default"
         },
         "virtualNetworkName": {
-            "value": "Jenkins-vnet"
+            "value": "POCtest-vnet"
         },
         "addressPrefixes": {
             "value": [
@@ -101,7 +101,7 @@
             "value": "testVM"
         },
         "virtualMachineRG": {
-            "value": "Jenkins"
+            "value": "POCtest"
         },
         "osDiskType": {
             "value": "Premium_LRS"
