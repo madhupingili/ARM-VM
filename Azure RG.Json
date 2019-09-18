@@ -14,7 +14,7 @@
         {
             "type": "Microsoft.Resources/resourceGroups",
             "apiVersion": "2018-05-01",
-            "location": "[parameters('southindia')]",
+            "location": "[parameters('eastus')]",
             "name": "[parameters('POCtest')]",
             "properties": {}
         }
